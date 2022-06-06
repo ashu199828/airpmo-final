@@ -1,0 +1,81 @@
+body{
+    background: #E5E5E5;
+}
+.sahi .link .active{
+    background: #136C57;
+    color: white;
+}
+
+.first:hover, .second:hover, .third:hover, .forth:hover, .fifth:hover, .sixth:hover, .seventh:hover{
+    background: #136C57;
+    color: white;
+    
+}
+.first:hover .fImg{
+    filter: invert(100);
+}
+.second:hover .sImg{
+    filter: invert(100);
+}
+.third:hover .tImg{
+    filter: invert(100);
+}
+.forth:hover .forthImg{
+    filter: invert(100);
+}
+.fifth:hover .fifthImg{
+    filter: invert(100);
+}
+.fifth:hover .fifthImgTwo{
+    filter: invert(100);
+}
+
+
+.active .first{
+    
+    color: white;
+    background: #136C57;
+}
+.active .second{
+    color: white;
+    background: #136C57;
+}
+.active .third{
+    color: white;
+    background: #136C57;
+}
+.active .forth{
+    color: white;
+    background: #136C57;
+}
+.active .fifth{
+    color: white;
+    background: #136C57;
+}
+.active .sixth{
+    color: white;
+    background: #136C57;
+}
+.active .seventh{
+    color: white;
+    background: #136C57;
+}
+.active .first .fImg{
+    filter: invert(100);
+}
+.active .second .sImg{
+    filter: invert(100);
+}
+.active .third .tImg{
+    filter: invert(100);
+}
+.active .forth .forthImg{
+    filter: invert(100);
+}
+.active .fifth .fifthImg{
+    filter: invert(100);
+}
+.active .fifth .fifthImgTwo{
+    filter: invert(100);
+}
+

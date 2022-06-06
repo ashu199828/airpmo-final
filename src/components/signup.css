@@ -1,0 +1,208 @@
+.sLogo{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 69px;
+    top: 48px;
+    mix-blend-mode: darken;
+    
+}
+.sDiv{
+    position: absolute;
+width: 1099px;
+height: 632.01px;
+left: 171px;
+top: 134px;
+
+/* Secondary/ Primary White */
+
+background: #FFFFFF;
+border-radius: 31.529px;
+}
+.ss{
+    position: absolute;
+    width: 88.28px;
+    height: 88.28px;
+    left: 26.8px;
+    top: 31.93px;
+    
+    /* Secondary/Grey/300 */
+    
+    background: #F4F7FE;
+}
+.sLable{
+    position: absolute;
+    width: 208px;
+    height: 89px;
+    left: 143px;
+    top: 31.51px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28.0895px;
+    line-height: 38px;
+    /* or 135% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+}
+.fName{
+    position: absolute;
+width: 350px;
+height: 38px;
+left: 143px;
+top: 194px;
+border: none;
+;
+
+}
+input:focus {
+    outline: none 
+    }
+    
+
+.lName{
+
+    position: absolute;
+    width: 350px;
+    height: 38px;
+    left: 653px;
+    top: 194px;
+    border: none;
+    
+    
+}
+.pNum{
+    position: absolute;
+    width: 350px;
+    height: 38px;
+    left: 143px;
+    top: 278px;
+    border: none;
+}
+.sEmail{
+    position: absolute;
+    width: 350px;
+    height: 38px;
+    left: 653px;
+    top: 278px;
+    border: none;
+}
+.sJob{
+    position: absolute;
+    width: 350px;
+    height: 38px;
+    left: 143px;
+    top: 362px;
+    border: none;
+}
+.sCom{
+    position: absolute;
+    width: 350px;
+    height: 38px;
+    left: 653px;
+    top: 362px;
+    border: none;
+    
+}
+.fHr{
+    position: absolute;
+width: 350px;
+height: 0px;
+left: 143px;
+top: 232px;
+
+border: 1px solid #000000;
+}
+.lHr{
+    position: absolute;
+    width: 350px;
+    height: 0px;
+    left: 653px;
+    top: 232px;
+    
+    border: 1px solid #000000;
+}
+.pHr{
+    position: absolute;
+    width: 350px;
+    height: 0px;
+    left: 143px;
+    top: 316px;
+    
+    border: 1px solid #000000;
+}
+.eHr{
+    position: absolute;
+    width: 350px;
+    height: 0px;
+    left: 653px;
+    top: 316px;
+    
+    border: 1px solid #000000;
+}
+.jHr{
+    position: absolute;
+    width: 350px;
+    height: 0px;
+    left: 143px;
+    top: 400px;
+    
+    border: 1px solid #000000;
+}
+.cHr{
+    position: absolute;
+    width: 350px;
+    height: 0px;
+    left: 653px;
+    top: 400px;
+    
+    border: 1px solid #000000;
+}
+.sComment{
+
+    position: absolute;
+    width: 350px;
+    height: 38px;
+    left: 143px;
+    top: 446px;
+    border: none;
+    
+}
+.comHr{
+
+    position: absolute;
+    width: 860px;
+    height: 0px;
+    left: 143px;
+    top: 484px;
+    
+    border: 1px solid #000000;
+}
+.sCancel{
+    position: absolute;
+    width: 100px;
+    height: 25px;
+    left: 813px;
+    top: 562px;
+    
+    background: #F42424;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 2px; 
+    cursor: pointer;
+}
+.sca{
+    position: absolute;
+width: 110px;
+height: 25px;
+left: 953px;
+top: 562px;
+cursor: pointer;
+background: #0FCC7C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 2px;
+}

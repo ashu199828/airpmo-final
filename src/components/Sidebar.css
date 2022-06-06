@@ -1,0 +1,392 @@
+
+
+#sideNavbar{
+    transition: all 0.5s;
+    
+}
+.bars{
+    display: flex;
+    position: absolute;
+    top:23px;
+    left:83px;
+    height: 40px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.sideNav{
+    
+position: absolute;
+width: 252px;
+height: 900px;
+left: 0px;
+top: 0px;
+transition: all 0.5s;
+background: #FFFFFF;
+}
+hr{
+    
+
+    position: absolute;
+    width: 200px;
+    height: 0px;
+    left: 20px;
+    top: 115px;
+    transition: all 0.5s;
+    border: 1px solid #000000;
+}
+ .logo{
+    position: absolute;
+width: 182px;
+height: 60.67px;
+left: 30px;
+top: 26px;
+background: #000;
+transition: all 0.5s;
+
+}
+
+
+
+.first{
+ padding-top: 10px;   
+padding-left: 40px;
+
+position: absolute;
+width: 200px;
+height: 50px;
+left: 5px;
+top: 200px;
+/* background: #FFFFFF;  */
+border-radius: 4px;
+transition: all 0.5s;
+color: black;
+
+}
+.second{
+    position: absolute;
+    padding-top: 10px;   
+    padding-left: 40px;
+    border-radius: 4px;
+width: 200px;
+height: 50px;
+left: 5px;
+top: 300px;
+transition: all 0.5s;
+color: black;
+/* background-color: green; */
+
+
+
+}
+.third{
+    position: absolute;
+width: 200px;
+height: 50px;
+padding-top: 10px;   
+padding-left: 40px;
+border-radius: 4px;
+left: 5px;
+top: 400px;
+transition: all 0.5s;
+color: black;
+
+
+
+}
+.forth{
+    position: absolute;
+width: 200px;
+height: 50px;
+padding-top: 10px;   
+padding-left: 40px;
+border-radius: 4px;
+left: 5px;
+top: 500px;
+transition: all 0.5s;
+color: black;
+
+
+
+}
+.fifth{
+    position: absolute;
+width: 200px;
+height: 50px;
+padding-top: 10px;   
+padding-left: 40px;
+border-radius: 4px;
+left: 5px;
+top: 600px;
+transition: all 0.5s;
+color: black;
+
+
+
+}
+.sixth{
+    position: absolute;
+width: 200px;
+height: 50px;
+padding-top: 10px;   
+padding-left: 40px;
+border-radius: 4px;
+left: 5px;
+top: 700px;
+transition: all 0.5s;
+color: black;
+
+
+
+}
+.seventh{
+    position: absolute;
+width: 200px;
+height: 50px;
+padding-top: 10px;   
+padding-left: 40px;
+border-radius: 4px;
+left: 5px;
+top: 800px;
+transition: all 0.5s;
+color: black;
+
+
+
+}
+
+.fImg{
+    position: absolute;
+left: 12px;
+right: 12.5%;
+top:20px;
+bottom: 0px;
+
+
+background: #000000;
+}
+.fP{
+    position: absolute;
+width: 83px;
+height: 28px;
+left: 58px;
+top: 0px;
+
+/* Body Text/ Medium/ Bold */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+letter-spacing: -0.02em;
+
+
+}
+.sImg{
+    position: absolute;
+left: 12px;
+right: 79.37%;
+top: 15px;
+bottom: 22%;
+
+}
+.tImg{
+    position: absolute;
+left: 12px;
+right: 79.37%;
+top: 15px;
+bottom: 22%;
+
+}
+.forthImg{
+    position: absolute;
+left: 12px;
+right: 79.37%;
+top: 15px;
+bottom: 22%;
+
+
+}
+.fifthImg{
+    position: absolute;
+left: 12px;
+right: 79.37%;
+top: 15px;
+bottom: 22%;
+
+}
+.fifthImgTwo{
+    position: absolute;
+left: 6px;
+right: 79.37%;
+top: 29px;
+bottom: 22%;
+
+}
+.sP{
+    
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 60px;
+    top: -5px;
+   
+    
+    /* Body Text/ Medium/ Bold */
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    letter-spacing: -0.02em;
+    
+   
+   
+}
+.tP{
+    
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 60px;
+    top: -5px;
+   
+    
+    /* Body Text/ Medium/ Bold */
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    letter-spacing: -0.02em;
+    
+   
+}
+   
+.forthP{
+    
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 60px;
+    top: -5px;
+   
+    
+    /* Body Text/ Medium/ Bold */
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    letter-spacing: -0.02em;
+    
+    
+   
+}
+.fifthP{
+    
+    position: absolute;
+    width: 108px;
+height: 28px;
+    left: 60px;
+    top: -5px;
+   
+    
+    /* Body Text/ Medium/ Bold */
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    letter-spacing: -0.02em;
+    
+   
+   
+}
+.sixthP{
+    
+    position: absolute;
+    width: 108px;
+height: 28px;
+    left: 60px;
+    top: -5px;
+   
+    
+    /* Body Text/ Medium/ Bold */
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    letter-spacing: -0.02em;
+    
+   
+}
+.seventhP{
+    
+    position: absolute;
+    width: 137px;
+height: 28px;
+    left: 60px;
+    top: -5px;
+    
+   
+    
+    /* Body Text/ Medium/ Bold */
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    letter-spacing: -0.02em;
+    
+    
+   
+}
+.sSignout{
+    position: absolute;
+    padding-bottom: 30px;
+    width: 137px;
+height: 28px;
+ background-color: white;
+    left: 60px;
+    top: 150px;
+   font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    letter-spacing: -0.02em;
+    cursor: pointer;
+    
+    
+}
+.sSignout:hover{
+    background: #136C57;
+    color: white;
+}
